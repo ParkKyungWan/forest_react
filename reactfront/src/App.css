@@ -1,0 +1,15 @@
+
+
+.post-box{
+  width:400px;
+  height:200px;
+  background-color: linen;
+  border: 3px solid rgba(250, 240, 230, 0.719);
+  margin:50px auto;
+  padding:5px;
+  border-radius:3%;
+}
+.PostingForm{
+  padding: 1.7rem;
+  margin: 1rem;
+}
